@@ -117,6 +117,15 @@ a:visited {
   line-height: 40px;
 }
 
+.footer-left {
+ float:left;
+}
+
+.footer-right {
+ float:right;
+ padding-right: 30px;
+}
+
 .footer ul {
   vertical-align: middle;
 }
